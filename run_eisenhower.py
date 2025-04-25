@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-from eisenhower.task_manager import TaskManager
-from eisenhower.visualizer import EisenhowerVisualizer
+from eisenhower_legacy.task_manager import TaskManager
+from eisenhower_legacy.visualizer import EisenhowerVisualizer
 
 
 def main():
